@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>VianaHub.Global.Middleware</id>
+    <version>1.0.0</version>
+    <authors>Dener Viana</authors>
+    <owners>VianaHub</owners>
+    <title>Esta biblioteca tem como finalidade oferecer um catálogo de mecanismos de middleware tais como: correlation; exceptionHandling; sanitization.</title>
+    <description>Agrega vários mecanismos de middleware.</description>
+    <releaseNotes>Versão inicial preview.</releaseNotes>
+    <copyright>Copyright 2023 VianaHub</copyright>
+    <tags>middleware VianaHub</tags>
+    <dependencies>
+      <dependency id="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0" />
+      <dependency id="Microsoft.Extensions.Options" Version="8.0.2" />
+      <dependency id="Serilog" Version="4.2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\net8.0\VianaHub.Global.Middleware.dll" target="lib\net8.0\" />
+  </files>
+</package> 

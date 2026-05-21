@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <DataCollectionRunSettings>
+    <DataCollectors>
+      <!-- coverlet.collector (XPlat Code Coverage) -->
+      <DataCollector friendlyName="XPlat Code Coverage" uri="datacollector://Microsoft/CodeCoverage/2.0">
+        <Configuration>
+          <!-- Formatos possíveis: opencover, cobertura, json -->
+          <Format>opencover</Format>
+          <!-- Excluir padrões (opcional) -->
+          <Exclude>
+            [xunit.*]*
+            [Moq.*]*
+          </Exclude>
+          <!-- Incluir assemblies/atributos/customize conforme necessidade -->
+        </Configuration>
+      </DataCollector>
+    </DataCollectors>
+  </DataCollectionRunSettings>
+
+  <!-- Outros ajustes opcionais -->
+  <RunConfiguration>
+    <TargetFrameworkVersion>net6.0</TargetFrameworkVersion>
+    <ResultsDirectory>TestResults</ResultsDirectory>
+  </RunConfiguration>
+</RunSettings>
