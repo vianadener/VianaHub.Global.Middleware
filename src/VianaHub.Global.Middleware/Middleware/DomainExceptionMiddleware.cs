@@ -2,11 +2,11 @@
 // Copyright (c) VianaHub. All rights reserved.
 // </copyright>
 
-namespace EBL.FIG.Common.Middleware.Lib.Middleware;
+namespace VianaHub.Global.Middleware.Lib.Middleware;
 
-using EBL.FIG.Common.Middleware.Lib.ExceptionHandling;
-using EBL.FIG.Common.Middleware.Lib.ExceptionHandling.Exceptions;
-using EBL.FIG.Common.Middleware.Lib.Notifications;
+using VianaHub.Global.Middleware.Lib.ExceptionHandling;
+using VianaHub.Global.Middleware.Lib.ExceptionHandling.Exceptions;
+using VianaHub.Global.Middleware.Lib.Notifications;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 

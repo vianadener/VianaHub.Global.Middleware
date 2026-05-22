@@ -12,7 +12,7 @@ using OpenTelemetry.Metrics;
 using OpenTelemetry.Resources;
 using OpenTelemetry.Trace;
 
-namespace EBL.FIG.Common.Middleware.Lib.Configuration;
+namespace VianaHub.Global.Middleware.Lib.Configuration;
 
 /// <summary>
 /// Provides extension methods for configuring OpenTelemetry logging, tracing, and metrics for a web application.

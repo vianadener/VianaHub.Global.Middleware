@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace EBL.FIG.Common.Middleware.Lib.Notifications;
+namespace VianaHub.Global.Middleware.Lib.Notifications;
 
 /// <summary>
 /// Notify class is responsible for managing notifications and error messages within the application. It allows adding messages with associated HTTP status codes, checking if there are any notifications, retrieving error messages, and getting the overall status code based on the notifications present.

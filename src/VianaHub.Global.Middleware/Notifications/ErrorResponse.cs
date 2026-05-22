@@ -1,4 +1,4 @@
-﻿namespace EBL.FIG.Common.Middleware.Lib.Notifications;
+﻿namespace VianaHub.Global.Middleware.Lib.Notifications;
 
 /// <summary>
 /// ErrorResponse class is a model that represents the structure of an error response. It contains a Title property to provide a brief description of the error and an Errors property, which is a dictionary that maps field names to arrays of error messages. This class can be used

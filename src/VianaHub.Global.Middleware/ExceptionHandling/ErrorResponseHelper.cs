@@ -2,9 +2,9 @@
 // Copyright (c) VianaHub. All rights reserved.
 // </copyright>
 
-namespace EBL.FIG.Common.Middleware.Lib.ExceptionHandling;
+namespace VianaHub.Global.Middleware.Lib.ExceptionHandling;
 
-using EBL.FIG.Common.Middleware.Lib.Notifications;
+using VianaHub.Global.Middleware.Lib.Notifications;
 using Microsoft.AspNetCore.Http;
 using System.Text.Json;
 

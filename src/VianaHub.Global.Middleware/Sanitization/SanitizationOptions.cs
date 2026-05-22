@@ -1,7 +1,7 @@
 // <copyright file="SanitizationOptions.cs" company="VianaHub">
 // Copyright (c) VianaHub. All rights reserved.
 // </copyright>
-namespace EBL.FIG.Common.Middleware.Lib.Sanitization;
+namespace VianaHub.Global.Middleware.Lib.Sanitization;
 
 /// <summary>
 /// Configuration options for the sanitization middleware.

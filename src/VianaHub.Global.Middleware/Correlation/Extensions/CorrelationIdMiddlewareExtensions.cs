@@ -1,7 +1,7 @@
 // <copyright file="CorrelationIdMiddlewareExtensions.cs" company="VianaHub">
 // Copyright (c) VianaHub. All rights reserved.
 // </copyright>
-namespace EBL.FIG.Common.Middleware.Lib.Correlation.Extensions
+namespace VianaHub.Global.Middleware.Lib.Correlation.Extensions
 {
     using Microsoft.AspNetCore.Builder;
 

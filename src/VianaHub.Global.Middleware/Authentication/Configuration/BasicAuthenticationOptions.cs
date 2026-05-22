@@ -1,4 +1,4 @@
-namespace EBL.FIG.Common.Middleware.Lib.Authentication.Configuration;
+namespace VianaHub.Global.Middleware.Lib.Authentication.Configuration;
 
 /// <summary>
 /// Represents the configuration options for basic authentication.

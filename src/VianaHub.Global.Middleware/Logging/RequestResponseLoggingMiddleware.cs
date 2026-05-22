@@ -12,7 +12,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.IO;
 
-namespace EBL.FIG.Common.Middleware.Lib.Logging;
+namespace VianaHub.Global.Middleware.Lib.Logging;
 
 public class RequestResponseLoggingMiddleware
 {

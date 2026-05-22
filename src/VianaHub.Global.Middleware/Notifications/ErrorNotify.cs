@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace EBL.FIG.Common.Middleware.Lib.Notifications;
+namespace VianaHub.Global.Middleware.Lib.Notifications;
 
 /// <summary>
 /// ErrorNotify is a class that represents a notification for errors. It contains a list of error messages and an associated HTTP status code. The Add method allows adding a message to the notification list with an optional status code (default is 400 Bad Request). This class can be used

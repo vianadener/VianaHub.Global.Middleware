@@ -1,7 +1,7 @@
 // <copyright file="SanitizationMiddleware.cs" company="VianaHub">
 // Copyright (c) VianaHub. All rights reserved.
 // </copyright>
-namespace EBL.FIG.Common.Middleware.Lib.Sanitization
+namespace VianaHub.Global.Middleware.Lib.Sanitization
 {
     using System.Text;
     using System.Text.Json;

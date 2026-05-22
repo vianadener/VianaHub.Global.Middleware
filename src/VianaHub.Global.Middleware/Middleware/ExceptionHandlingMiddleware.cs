@@ -1,10 +1,10 @@
 // <copyright file="ExceptionHandlingMiddleware.cs" company="VianaHub">
 // Copyright (c) VianaHub. All rights reserved.
 // </copyright>
-namespace EBL.FIG.Common.Middleware.Lib.Middleware
+namespace VianaHub.Global.Middleware.Lib.Middleware
 {
-    using EBL.FIG.Common.Middleware.Lib.ExceptionHandling;
-    using EBL.FIG.Common.Middleware.Lib.ExceptionHandling.Exceptions;
+    using VianaHub.Global.Middleware.Lib.ExceptionHandling;
+    using VianaHub.Global.Middleware.Lib.ExceptionHandling.Exceptions;
     using Microsoft.AspNetCore.Http;
     using Microsoft.Extensions.Logging;
     using System.Net;

@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Http;
 using System.Net.Http.Headers;
 using System.Text;
 
-namespace EBL.FIG.Common.Middleware.Lib.Authentication;
+namespace VianaHub.Global.Middleware.Lib.Authentication;
 
 /// <summary>
 /// Middleware for handling basic authentication in an ASP.NET Core application.

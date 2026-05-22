@@ -1,6 +1,6 @@
 ﻿using RT.Comb;
 
-namespace EBL.FIG.Common.Middleware.Lib.Extensions;
+namespace VianaHub.Global.Middleware.Lib.Extensions;
 
 public static class MethodExtensions
 {

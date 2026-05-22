@@ -1,10 +1,10 @@
-﻿using EBL.FIG.Common.Middleware.Lib.ExceptionHandling;
-using EBL.FIG.Common.Middleware.Lib.Notifications;
+﻿using VianaHub.Global.Middleware.Lib.ExceptionHandling;
+using VianaHub.Global.Middleware.Lib.Notifications;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using System.Net;
 
-namespace EBL.FIG.Common.Middleware.Lib.Middleware;
+namespace VianaHub.Global.Middleware.Lib.Middleware;
 
 /// <summary>
 /// Middleware acting as the final catch-all exception handler in the pipeline.

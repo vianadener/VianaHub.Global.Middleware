@@ -4,7 +4,7 @@
 
 using Microsoft.AspNetCore.Http;
 
-namespace EBL.FIG.Common.Middleware.Lib.Correlation;
+namespace VianaHub.Global.Middleware.Lib.Correlation;
 
 /// <summary>
 /// Middleware responsible for handling Correlation IDs in HTTP requests.

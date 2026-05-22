@@ -1,7 +1,7 @@
-﻿using EBL.FIG.Common.Middleware.Lib.Extensions;
+﻿using VianaHub.Global.Middleware.Lib.Extensions;
 using Microsoft.AspNetCore.Http;
 
-namespace EBL.FIG.Common.Middleware.Lib.Notifications;
+namespace VianaHub.Global.Middleware.Lib.Notifications;
 
 /// <summary>
 /// Classe responsável por mapear os endpoints de NotifyExtensions.

@@ -1,7 +1,7 @@
 // <copyright file="NotFoundException.cs" company="VianaHub">
 // Copyright (c) VianaHub. All rights reserved.
 // </copyright>
-namespace EBL.FIG.Common.Middleware.Lib.ExceptionHandling.Exceptions
+namespace VianaHub.Global.Middleware.Lib.ExceptionHandling.Exceptions
 {
     /// <summary>
     /// Represents an exception that is thrown when a requested resource is not found.

@@ -1,8 +1,8 @@
-using EBL.FIG.Common.Middleware.Lib.Authentication.Configuration;
+using VianaHub.Global.Middleware.Lib.Authentication.Configuration;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace EBL.FIG.Common.Middleware.Lib.Authentication.Extensions;
+namespace VianaHub.Global.Middleware.Lib.Authentication.Extensions;
 
 /// <summary>
 /// Provides extension methods to configure and use basic authentication middleware.

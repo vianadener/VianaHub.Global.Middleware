@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace EBL.FIG.Common.Middleware.Lib.Notifications;
+namespace VianaHub.Global.Middleware.Lib.Notifications;
 
 public interface INotify
 {

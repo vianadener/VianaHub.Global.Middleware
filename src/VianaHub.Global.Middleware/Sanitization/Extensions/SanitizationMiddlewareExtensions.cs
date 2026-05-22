@@ -1,9 +1,9 @@
 // <copyright file="SanitizationMiddlewareExtensions.cs" company="VianaHub">
 // Copyright (c) VianaHub. All rights reserved.
 // </copyright>
-namespace EBL.FIG.Common.Middleware.Lib.Sanitization.Extensions
+namespace VianaHub.Global.Middleware.Lib.Sanitization.Extensions
 {
-    using EBL.FIG.Common.Middleware.Lib.Sanitization;
+    using VianaHub.Global.Middleware.Lib.Sanitization;
     using Microsoft.AspNetCore.Builder;
     using Microsoft.Extensions.Options;
 

@@ -1,7 +1,7 @@
 // <copyright file="ErrorDetails.cs" company="VianaHub">
 // Copyright (c) VianaHub. All rights reserved.
 // </copyright>
-namespace EBL.FIG.Common.Middleware.Lib.ExceptionHandling.Exceptions
+namespace VianaHub.Global.Middleware.Lib.ExceptionHandling.Exceptions
 {
     using System.Text.Json;
 
